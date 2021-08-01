@@ -6,7 +6,7 @@
  
  **Team Members**</br>
  - Aaheli Sadhukhan
- - Aiswaraya Santhosh
+ - Aishwaraya Santhosh
  - Lavleen Madahar
  - Siddhi Kumari
  
